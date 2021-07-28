@@ -16,7 +16,6 @@
     "type": "git",
     "url": "https://github.com/assembler-school/nodejs-intro-workshop.git"
   },
-  "dependencies": {},
   "devDependencies": {
     "@babel/cli": "^7.12.10",
     "@babel/core": "^7.12.10",
